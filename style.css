@@ -25,6 +25,7 @@
 .services1{
     padding: 20px;
     width: 400px;
+    height: 400px;
     margin: 30px auto;
     box-shadow: 0 5px 10px #FFFFFF;
     display: inline-block;
@@ -43,6 +44,7 @@
 .services2{
     padding: 20px;
     width: 400px;
+    height: 400px;
     margin: 30px auto;
     box-shadow: 0 5px 10px #FFFFFF;
     display: inline-block;
@@ -60,6 +62,7 @@
 .services3{
     padding: 20px;
     width: 400px;
+    height: 400px;
     margin: 30px auto;
     box-shadow: 0 5px 10px #FFFFFF;
     display: inline-block;
