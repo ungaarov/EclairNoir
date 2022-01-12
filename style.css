@@ -19,6 +19,9 @@
     background-color: #00FFFF;
     color: black;
 }
+    body{
+        background: #5F9EA0;
+    }
 .services1{
     width: 200px;
     margin: 1em;
