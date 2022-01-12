@@ -31,10 +31,30 @@
     display: block;
     width: 200px;
     height: 200px;
-    margin: 0;
+    margin: 0 auto;
 }
 .haircuts{
     font-size: 20px;
     text-align: center;
 
+}
+.img2{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+.modeling{
+     font-size: 20px;
+    text-align: center;
+}
+.img3{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+.scincare{
+     font-size: 20px;
+    text-align: center;
 }
