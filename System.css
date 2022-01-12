@@ -1,0 +1,21 @@
+.navbar {
+  background-color:#000000 ;
+  overflow: hidden;
+    margin: 2em;
+}
+.navbar a {
+    float: left;
+    color: #00FFFF;
+    text-align: center;
+    padding: 25px 50px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.navbar a:hover {
+    background-color:#00FFFF;
+    color: black;
+}
+.navbar a.home {
+    background-color: #00FFFF;
+    color: black;
+}
